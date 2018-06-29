@@ -1,0 +1,19 @@
+{
+  "name": "node-sample-api",
+  "version": "1.0.0",
+  "description": "Sample Node Js API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbhatt/node-sample-api.git"
+  },
+  "author": "sbhatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbhatt/node-sample-api/issues"
+  },
+  "homepage": "https://github.com/sbhatt/node-sample-api#readme"
+}
